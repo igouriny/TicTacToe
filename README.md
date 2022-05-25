@@ -11,7 +11,8 @@ methods to help the project run smoothly. The InfoCenter class is used for every
 There is also a small Constants class that holds the constants for delimiting the application's borders and everything like that.
 
 I do feel like the project is incomplete and rushed, and would've hoped to develop it a little more. It would be great to be able to run it as a desktop app, and 
-would be interesting to understand how the process behind it works.
+would be interesting to understand how the process behind it works. It would've also been pretty interesting and better to use an algorithm know as the Minimax algorithm
+
 One challenge I faced was definitely more on the object oriented side. It was very hard at times to figure out how to add things on the application through code.
 
 ## Screenshots
